@@ -1,1 +1,31 @@
 /*  your css code here. If applicable */
+.container{
+	width:400px;
+	height:100px;
+	text-align:center;
+	padding:30px;
+	border:5px solid black;
+	border-radius:40px;
+	background-color:lightgray;
+}
+.red-block{
+	display:inline-flex;
+	background-color:green;
+	height:100px;
+	width:100px;
+	border-radius:50%;
+}
+.green-block{
+	display:inline-flex;
+	background-color:yellow;
+	height:100px;
+	width:100px;
+	border-radius:50%;
+}
+.yellow-block{
+	display:inline-flex;
+	background-color:red;
+	height:100px;
+	width:100px;
+	border-radius:50%;
+}
