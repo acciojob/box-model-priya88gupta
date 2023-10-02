@@ -2,27 +2,26 @@
 .container{
 	width:400px;
 	height:100px;
-	text-align:center;
 	padding:30px;
 	border:5px solid black;
 	border-radius:40px;
 	background-color:lightgray;
 }
-.green-block{
+.green{
 	display:inline-flex;
 	background-color:green;
 	height:100px;
 	width:100px;
 	border-radius:50%;
 }
-.yellow-block{
+.yellow{
 	display:inline-flex;
 	background-color:yellow;
 	height:100px;
 	width:100px;
 	border-radius:50%;
 }
-.red-block{
+.red{
 	display:inline-flex;
 	background-color:red;
 	height:100px;
